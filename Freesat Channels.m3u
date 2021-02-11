@@ -59,91 +59,65 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_east.m3u8
 #EXTINF:-1 tvg-id="BBC One Channel Islands" tvg-name="BBC One Channel Islands" tvg-logo="https://s4.postimg.org/k5xl5dmf1/bbc_one.png" group-title="BBC",BBC One Channel Islands
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_channel_islands.m3u8
-#EXTINF:-1,UK: Itv 1
-http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/4095
-#EXTINF:-1,UK: Channel 4
-http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/12491
-#EXTINF:-1,UK: CHANNEL 5
-http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/7956
-#EXTINF:-1,|UK|FHD| ITV 1
-http://rv.therevenge.co:80/live/691300116240615/691300116240615/80357.m3u8
-#EXTINF:-1,|UK|FHD| ITV 2
-http://rv.therevenge.co:80/live/691300116240615/691300116240615/80356.m3u8
-#EXTINF:-1,|UK|FHD| ITV 3
-http://rv.therevenge.co:80/live/691300116240615/691300116240615/80355.m3u8
-#EXTINF:-1,|UK|FHD| ITV 4
-http://rv.therevenge.co:80/live/691300116240615/691300116240615/80354.m3u8
-#EXTINF:-1,|UK|FHD| ITV BE
-http://rv.therevenge.co:80/live/691300116240615/691300116240615/80353.m3u8
-#EXTINF:-1,|UK|FHD| CHANNEL 4
-http://rv.therevenge.co:80/live/691300116240615/691300116240615/80352.m3u8
-#EXTINF:-1,|UK|FHD| CHANNEL 5
-http://rv.therevenge.co:80/live/691300116240615/691300116240615/80351.m3u8
-#EXTINF:-1,|UK|FHD| E4
-http://rv.therevenge.co:80/live/691300116240615/691300116240615/80350.m3u8
-#EXTINF:-1,|UK|FHD| 4 SEVEN
-http://rv.therevenge.co:80/live/691300116240615/691300116240615/80348.m3u8
-#EXTINF:-1,|UK|FHD| BLOOMBERG
-http://rv.therevenge.co:80/live/691300116240615/691300116240615/80328.m3u8
-#EXTINF:-1,|UK|FHD| CNN
-http://rv.therevenge.co:80/live/691300116240615/691300116240615/80327.m3u8
-#EXTINF:-1,|UK|FHD| FRANCE 24
-http://rv.therevenge.co:80/live/691300116240615/691300116240615/80326.m3u8
-#EXTINF:-1,|UK|FHD| RT UK
-http://rv.therevenge.co:80/live/691300116240615/691300116240615/80322.m3u8
-#EXTINF:-1,|UK|FHD| SKY NEWS
-http://rv.therevenge.co:80/live/691300116240615/691300116240615/80321.m3u8
-#EXTINF:-1,|UK|SD| CNBC
-http://rv.therevenge.co:80/live/691300116240615/691300116240615/80316.m3u8
-#EXTINF:-1,|UK|SD| FOOD NETWORK
-http://rv.therevenge.co:80/live/691300116240615/691300116240615/80307.m3u8
-#EXTINF:-1,|UK|SD| CITV
-http://rv.therevenge.co:80/live/691300116240615/691300116240615/80333.m3u8
-#EXTINF:-1,|UK|SD| TINY POP
-http://rv.therevenge.co:80/live/691300116240615/691300116240615/80227.m3u8
-#EXTINF:-1,|UK|SD| POP
-http://rv.therevenge.co:80/live/691300116240615/691300116240615/80081.m3u8
-#EXTINF:-1,|UK|SD| POP MAX
-http://rv.therevenge.co:80/live/691300116240615/691300116240615/80080.m3u8
-#EXTINF:-1,|UK|FHD| DAVE
-http://rv.therevenge.co:80/live/691300116240615/691300116240615/80221.m3u8
-#EXTINF:-1,|UK|FHD| MORE 4
-http://rv.therevenge.co:80/live/691300116240615/691300116240615/80218.m3u8
-#EXTINF:-1,|UK|FHD| QUEST
-http://rv.therevenge.co:80/live/691300116240615/691300116240615/80217.m3u8
-#EXTINF:-1,|UK|FHD| SKY ARTS
-http://rv.therevenge.co:80/live/691300116240615/691300116240615/80210.m3u8
-#EXTINF:-1,|UK|SD| 4 SEVEN
-http://rv.therevenge.co:80/live/691300116240615/691300116240615/80203.m3u8
-#EXTINF:-1,|UK|SD| 5 SELECT
-http://rv.therevenge.co:80/live/691300116240615/691300116240615/80202.m3u8
-#EXTINF:-1,|UK|SD| 5 STAR
-http://rv.therevenge.co:80/live/691300116240615/691300116240615/80201.m3u8
-#EXTINF:-1,|UK|SD| 5 USA
-http://rv.therevenge.co:80/live/691300116240615/691300116240615/80200.m3u8
-#EXTINF:-1,|UK|SD| BLAZE
-http://rv.therevenge.co:80/live/691300116240615/691300116240615/80198.m3u8
-#EXTINF:-1,|UK|SD| CBS ACTION
-http://rv.therevenge.co:80/live/691300116240615/691300116240615/80197.m3u8
-#EXTINF:-1,|UK|SD| CBS DRAMA
-http://rv.therevenge.co:80/live/691300116240615/691300116240615/80196.m3u8
-#EXTINF:-1,|UK|SD| CBS REALITY
-http://rv.therevenge.co:80/live/691300116240615/691300116240615/80195.m3u8
-#EXTINF:-1,|UK|SD| CHALLENGE
-http://rv.therevenge.co:80/live/691300116240615/691300116240615/80194.m3u8
-#EXTINF:-1,|UK|SD| DMAX
-http://rv.therevenge.co:80/live/691300116240615/691300116240615/80192.m3u8
-#EXTINF:-1,|UK|SD| DRAMA
-http://rv.therevenge.co:80/live/691300116240615/691300116240615/80191.m3u8
-#EXTINF:-1,|UK|SD| PBS AMERICA
-http://rv.therevenge.co:80/live/691300116240615/691300116240615/80183.m3u8
-#EXTINF:-1,|UK|SD| PICK TV
-http://rv.therevenge.co:80/live/691300116240615/691300116240615/80182.m3u8
-#EXTINF:-1,|UK|SD| QUEST RED
-http://rv.therevenge.co:80/live/691300116240615/691300116240615/80180.m3u8
-#EXTINF:-1,|UK|SD| REALLY
-http://rv.therevenge.co:80/live/691300116240615/691300116240615/80178.m3u8
-#EXTINF:-1,|UK|SD| YESTERDAY
-http://rv.therevenge.co:80/live/691300116240615/691300116240615/80167.m3u8
-#EXTINF:-1,|UK|FHD| FILM 4
-http://rv.therevenge.co:80/live/691300116240615/691300116240615/80118.m3u8
+#EXTINF:-1,UK: Itv 1 FHD
+https://www.itv.com/hub/itv
+#EXTINF:-1,UK: Itv 2
+https://www.itv.com/hub/itv2
+#EXTINF:-1,UK: Itv 3
+https://www.itv.com/hub/itv3
+#EXTINF:-1,UK: Itv 4
+https://www.itv.com/hub/itv4
+#EXTINF:-1,UK: ITVBE
+https://www.itv.com/hub/itvbe
+#EXTINF:-1,UK: Channel 4 FHD
+https://www.channel4.com/now/C4
+#EXTINF:-1,UK: E4
+https://www.channel4.com/now/e4
+#EXTINF:-1,UK: E4 FHD
+https://www.channel4.com/now/e4
+#EXTINF:-1,UK: More 4
+https://www.channel4.com/now/m4
+#EXTINF:-1,UK: More 4 HD
+https://www.channel4.com/now/m4
+#EXTINF:-1,UK: 4seven
+https://www.channel4.com/now/4s
+#EXTINF:-1,UK: Channel 5 FHD
+https://www.my5.tv/channels/channel-5
+#EXTINF:-1,UK: 5 Usa
+https://www.my5.tv/channels/5usa
+#EXTINF:-1,UK: 5 Star
+https://www.my5.tv/channels/5-star
+#EXTINF:-1,UK: 5 SELECT
+https://www.my5.tv/channels/5select
+#EXTINF:-1,UK: CBS Drama
+https://www.filmon.com/tv/cbs-drama
+#EXTINF:-1,UK: CBS Reality
+https://www.filmon.com/tv/cbs-reality
+#EXTINF:-1,UK: CBS Action
+https://www.filmon.com/tv/cbs-action
+#EXTINF:-1,UK: PICK
+https://www.filmon.com/tv/pick-tv
+#EXTINF:-1,UK: Challenge
+https://www.filmon.com/tv/challenge
+#EXTINF:-1,UK: Dave
+https://uktvplay.uktv.co.uk/watch-live/dave
+#EXTINF:-1,UK: Drama
+https://uktvplay.uktv.co.uk/watch-live/drama
+#EXTINF:-1,UK: Yesterday
+https://uktvplay.uktv.co.uk/watch-live/yesterday
+#EXTINF:-1,UK: Really
+https://www.filmon.com/tv/really
+#EXTINF:-1,UK: Forces TV
+https://www.filmon.com/tv/forces-tv
+#EXTINF:-1,UK: Sky News HD
+https://www.youtube.com/watch?v=9Auq9mYxFEE&feature=emb_logo
+#EXTINF:-1,UK: Film 4
+https://www.channel4.com/now/f4
+#EXTINF:-1,UK: CITV
+https://www.itv.com/hub/citv
+#EXTINF:-1,UK: POP
+https://www.filmon.com/tv/pop
+#EXTINF:-1,UK: POP Max
+https://www.filmon.com/tv/kix
+#EXTINF:-1,UK: Tiny Pop
+https://www.filmon.com/tv/tiny-pop
